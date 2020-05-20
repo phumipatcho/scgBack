@@ -1,24 +1,24 @@
 # Composer files
 composer.phar
-vendor/
+zf3/vendor/
 
 # Local configs
-config/autoload/*.local.php
+zf3/config/autoload/*.local.php
 
 # Binary gettext files
 *.mo
 
 # Data
-data/logs/
-data/cache/
-data/sessions/
-data/tmp/
-temp/
+zf3/data/logs/
+zf3/data/cache/
+zf3/data/sessions/
+zf3/data/tmp/
+zf3/temp/
 
 #Doctrine 2
-data/DoctrineORMModule/Proxy/
-data/DoctrineORMModule/cache/
+zf3/data/DoctrineORMModule/Proxy/
+zf3/data/DoctrineORMModule/cache/
 
 # Legacy ZF1
-demos/
-extras/documentation
+zf3/demos/
+zf3/extras/documentation
