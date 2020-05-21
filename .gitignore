@@ -22,3 +22,8 @@ zf3/data/DoctrineORMModule/cache/
 # Legacy ZF1
 zf3/demos/
 zf3/extras/documentation
+
+
+#vue
+vue/real-world-vue/node_modules
+vue/real-world-vue/dist
