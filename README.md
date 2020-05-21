@@ -1,3 +1,13 @@
+# setup vue
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+
 # ZendSkeletonApplication
 
 > ## Repository abandoned 2019-12-31
